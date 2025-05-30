@@ -4008,6 +4008,8 @@ class Spectra(MSection):
             'XES',
             'XPS',
             'RXIS',
+            'Polarizability',
+            'Dielectric function',
             config.services.unavailable_value,
         ),
         description="""
